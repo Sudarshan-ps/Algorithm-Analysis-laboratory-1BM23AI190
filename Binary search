@@ -66,3 +66,15 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+
+Enter the number of elements (up to 1000): 10
+Array elements (sorted):
+18 80 70 36 2 28 16 55 16 43 
+Random key to search for: 54
+Element not found
+Time Taken in seconds: 0.000002
+
+
+=== Code Execution Successful ===
