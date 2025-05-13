@@ -87,3 +87,17 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+
+Enter the number of elements (up to 1000): 10
+Array elements before sorting:
+91 6 77 42 60 67 26 66 41 31 
+Array elements after sorting:
+6 26 31 41 42 60 66 67 77 91 
+Random key to search for: 77
+Element 77 is found at index 8.
+Time Taken in seconds: 0.000001
+
+
+=== Code Execution Successful ===
